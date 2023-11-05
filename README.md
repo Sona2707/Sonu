@@ -1,7 +1,7 @@
 # Sonu
 <h1 align="center">Hi 👋, I'm Sona Murmu</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-<img align ="middle" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
+<img align ="right" alt="coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 📫 How to reach me **sonamurmu721445@gmail.com**
 
